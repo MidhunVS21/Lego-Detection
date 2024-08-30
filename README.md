@@ -11,6 +11,6 @@ YOLO outperforms CNN and k-NN in object detection tasks by offering real-time sp
 
 # TEAM MEMBERS
 - Midhun [@MidhunVS21](https://github.com/MidhunVS21)
-- Thavamani 
-- Junaitha Fathima
-- Deepthi Prasanna
+- Thavamani [@THAVAMANI-T](https://github.com/THAVAMANI-T)
+- Junaitha Fathima [@Junai-13](https://github.com/Junai-13)
+- Deepthi Prasanna [@DeepthiPrasanna](https://github.com/DeepthiPrasannaIntern)

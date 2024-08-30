@@ -10,7 +10,7 @@ YOLO outperforms CNN and k-NN in object detection tasks by offering real-time sp
 # WHY WE PREFER PYTHON?
 
 # TEAM MEMBERS
-- Midhun [@MidhunVS21](https://github.com/MidhunVS21)
-- Thavamani [@THAVAMANI-T](https://github.com/THAVAMANI-T)
-- Junaitha Fathima [@Junai-13](https://github.com/Junai-13)
+- Midhun [@MidhunVS](https://github.com/MidhunVS21)
+- Thavamani [@THAVAMAN](https://github.com/THAVAMANI-T)
+- Junaitha Fathima [@JunaithaFathima](https://github.com/Junai-13)
 - Deepthi Prasanna [@DeepthiPrasanna](https://github.com/DeepthiPrasannaIntern)

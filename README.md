@@ -1,6 +1,9 @@
 # LEGO BRICK COLOUR AND SIZE DETECTION
 The goal of this project is to develop an automated system that can accurately detect and classify the color and size of LEGO bricks from images.
 
+# WORKFLOW
+![WORKFLOW](https://github.com/user-attachments/assets/49037f61-b237-4368-a113-c290fe0b6618)
+
 #  TECHNOLOGY USED: 
 - PYTHON PROGRAMMING
 - YOLO ARCHITECHTURE
@@ -17,5 +20,3 @@ YOLO outperforms CNN and k-NN in object detection tasks by offering real-time sp
 - Junaitha Fathima [@JunaithaFathima](https://github.com/Junai-13)
 - Deepthi Prasanna [@DeepthiPrasanna](https://github.com/DeepthiPrasannaIntern)
 
-# WORKFLOW
-![WORKFLOW](https://github.com/user-attachments/assets/49037f61-b237-4368-a113-c290fe0b6618)

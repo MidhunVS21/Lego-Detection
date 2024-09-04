@@ -11,7 +11,7 @@ class LegoPredictorApp:
         self.root.title("LEGO Brick Predictor")
 
         # Initialize YOLO model
-        self.model = YOLO('./Color100.pt')
+        self.model = YOLO('./bestTrained')
 
         # Create labels and buttons
         self.upload_label = Label(root, text="Upload Image:")

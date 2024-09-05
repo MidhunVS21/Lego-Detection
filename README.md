@@ -21,6 +21,9 @@ cd Lego-Detection
 streamlit run app.py
 ```
 
+# LINK OF DEPLOYED APP:
+[lego-detection.streamlit.app](https://lego-detection.streamlit.app)
+
 # DEMONSTRATION VIDEO:
 
 

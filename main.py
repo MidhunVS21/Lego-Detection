@@ -8,7 +8,7 @@ import tempfile
 import os
 
 # Load YOLO model (YOLOv8)
-model = YOLO('./FinalTrained.pt')  # Update with your trained model path
+model = YOLO('./ColorShapeSize.pt')  # Update with your trained model path
 
 # YOLO detection function
 def detect_and_draw_boxes(image):
@@ -76,13 +76,13 @@ if input_option == "Upload Image/Video":
             for box in results[0].boxes:
                 # Convert label tensor to string and extract color and size
                 label = model.names[int(box.cls)]  # Convert the class index to its string label
-                color, size = label.split("_")  # Split the label into color and size
-                brick_details.append({'color': color, 'size': size})
+                color, shape, size = label.split("_")  # Split the label into color and size
+                brick_details.append({'color': color, 'shape': shape, 'size': size})
 
             st.write(f'Number of Bricks: {num_bricks}')
             st.write('Brick Details:')
             for brick in brick_details:
-                st.write(f'Color: {brick["color"]}, Size: {brick["size"]}')
+                st.write(f'COLOR: {brick["color"]},  SHAPE: {brick["shape"]},  SIZE: {brick["size"]}')
 
             # Clean up the temporary file
             os.remove(temp_file_path)

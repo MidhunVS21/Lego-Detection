@@ -22,8 +22,8 @@ streamlit run app.py
 ```
 
 # LINK OF DEPLOYED APP:
-[lego-detection.streamlit.app](https://lego-detection.streamlit.app)
-[lego-app.streamlit.app/](https://lego-app.streamlit.app)
+- [lego-detection.streamlit.app](https://lego-detection.streamlit.app)
+- [lego-app.streamlit.app/](https://lego-app.streamlit.app)
 
 # DEMONSTRATION VIDEO:
 

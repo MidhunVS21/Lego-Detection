@@ -8,7 +8,7 @@ import tempfile
 import os
 
 # Load YOLO model (YOLOv8)
-model = YOLO('./ColorShapeSize.pt')  # Update with your trained model path
+model = YOLO('./FinalCoShSi')  # Update with your trained model path
 
 # YOLO detection function
 def detect_and_draw_boxes(image):
